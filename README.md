@@ -1,5 +1,6 @@
 node-for-beginners
 ==================
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/mehrdadrafiee/node-for-beginners?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 A list of resources for Node.js Newbies!
 
